@@ -222,12 +222,12 @@ input:-webkit-autofill {
 .sign-in-js .first-content .second-column {
     z-index: -1;
     position: relative;
-    animation: deslocamentoEsq 1s;
+    animation: deslocamentoEsq 3s;
 }
 .sign-up-js .second-content .second-column {
     position: relative;
     z-index: -1;
-    animation: deslocamentoDir 1s;
+    animation: deslocamentoDir 3s;
 }
 /* Anicação Css de Conteúdo */
 @keyframes deslocamentoEsq {
